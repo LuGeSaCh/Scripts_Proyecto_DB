@@ -1,7 +1,3 @@
--- 5. VISTA (Lógica de Negocio de Pagos)
-----------------------------------------------------------
-PRINT 'Creando Vista V_EstadoSocios...';
-
 USE GimnasioDB;
 GO
 
